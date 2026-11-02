@@ -1,0 +1,11 @@
+{
+  "name": "Pengingat Waktu TKA — SMAN 1 Katapang",
+  "short_name": "Timer TKA",
+  "description": "Dashboard ujian TKA offline dengan timer dan penyimpanan lokal.",
+  "lang": "id-ID",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06112e",
+  "theme_color": "#071b52",
+  "icons": []
+}

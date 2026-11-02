@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "tka": {
+      "current": {
+        ".read": "auth != null && (auth.uid === 'AZdFNaItUMQZuP0UTw0xAKJ90Yq1' || auth.uid === '4P0xse1rktVGadxewr1PVkaVjY13')",
+        ".write": "auth != null && auth.uid === 'AZdFNaItUMQZuP0UTw0xAKJ90Yq1'"
+      }
+    }
+  }
+}
