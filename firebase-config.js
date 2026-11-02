@@ -3,7 +3,7 @@
 // dengan Authentication dan Realtime Database Rules.
 window.TKA_FIREBASE_CONFIG = {
   enabled: true,
-  apiKey: "AIzaSyBiF62a6bOWcT0LQya0XhyJU8fta8XN-s",
+  apiKey: "AIzaSyBiF62a6bOWcT0lQya0XyhjUJ8fta8XN-s",
   authDomain: "tka-sman1-katapang.firebaseapp.com",
   databaseURL: "https://tka-sman1-katapang-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "tka-sman1-katapang",
